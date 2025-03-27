@@ -1,5 +1,5 @@
 """
-Next.js Middleware Vulnerability Comprehensive Scanner
+Next.js-CVE-2025-29927 Middleware Vulnerability Comprehensive Scanner
 
 This script comprehensively checks Next.js applications for vulnerabilities related to CVE-2025-29927,
 an authorization bypass via middleware manipulation.
@@ -30,8 +30,11 @@ Usage:
 - Run the script and input the URL of the Next.js application to scan:
   python nextjs_scanner.py
 
-License
+Contribute and Customize:
+Feel free to modify, enhance, correct, or hack the script to better suit your needs or contribute improvements back to the community. 
+Contributions are always welcome!
 
+License:
 This Python script is provided "as-is" without any warranties or
 guarantees, express or implied. The author is not responsible for any
 damage, loss of data, or other issues that may result from using this
